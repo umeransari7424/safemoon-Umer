@@ -1,0 +1,220 @@
+body{
+  background-color: #1B1F26 !important;
+}
+.safemoon{
+  font-size: 60px;
+}
+.alert{
+  background-color: #602C27 !important;
+  color: white !important;
+}
+.herobtn{
+  background-color: #21bbb3 !important;
+  border-color:#21bbb3 !important;
+}
+.herobtn2{
+  margin-left: 20px !important;
+}
+
+.hero{
+  height: 1000px;
+  width: 100%;
+  position: relative;
+
+
+  video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .content{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+}
+.google{
+  display: flex;
+  height: 80vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+.about{
+  display: flex;
+  height: 90vh;
+  align-items: baseline;
+  // align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.about2{
+  display: flex;
+  height: 100vh;
+  align-items: baseline;
+  // align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.aboutus{
+  background-color:#1D3E42;
+  padding: 5px;
+  color: #21bbb3;
+  
+}
+.aboutimg{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+
+}
+.astronautimg{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+
+}
+.page2-container{
+  background-color: #1B1F26;
+}
+.img{
+  border-radius: 50%;
+}
+
+.about-para{
+  color: white;
+}
+.list-para{
+  color: white;
+  list-style: none;
+  font-size: 20px;
+}
+
+.user{
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+.user-icon{
+  background-color: grey;
+  color: white;
+}
+.page4{
+  color: whitesmoke;
+}
+.cat-list{
+  display: flex;
+  flex-direction: row;
+}
+.bg{
+  background-image: url(https://safemoon.com/_next/static/media/token.66f73762.png);
+  background-color: #1B1F26;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100%;
+}
+.phoneimg{
+  display: flex;
+  height: 90vh;
+  padding-bottom: 0%;
+}
+.page6-bg{
+  display: flex;
+ background-color: black !important;
+}
+.logo-img{
+  padding: 60px;
+
+}
+.footer{
+    display: flex;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+}
+.wallet{
+  display: flex;
+  height: 50vh;
+  justify-content: center;
+  flex-direction: column;
+}
+.wallet2{
+  display: flex;
+  height: 45vh;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.wallet-para:hover{
+  color: #21bbb3;
+}
+.wallet-para{
+  color: white;
+  margin-top: 15px;
+
+}
+.footerbtn{
+  color: #21bbb3!important;
+  border-radius: 10px;
+  border-color: #21bbb3 !important;
+}
+.pages{
+
+  margin-top: 40px;
+  margin-bottom: 50px;
+  padding-top:20px ;
+}
+.pages1{
+
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top:20px ;
+}
+.navbar{
+  position: fixed !important;
+  overflow: hidden !important;
+  z-index: 3;
+  width: 100%;
+  background-color: #1B1F26 !important;
+}
+.navlogo{
+  margin-left: 15%;
+}
+.nav-link{
+  color: #21bbb3 !important;
+}
+.navbuttonlogo{
+  margin-right: 15%;
+}
+.navbar-toggler-icon{
+  background-color: #21bbb3;
+}
+.safemoon-image{
+  margin-left: 40px;
+}
+.bg-color{
+  background-color: rgba(0,0,0,0.55);
+  
+}
+.bg-video{
+  position: fixed;
+  background-repeat: no-repeat;
+}
+.safemoon-type{
+  font-size: 50px;
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.dangertext{
+  font-size: 13px;
+  border-radius: 10px !important;
+  border: none !important;
+}
