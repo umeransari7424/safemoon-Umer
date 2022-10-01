@@ -26,10 +26,10 @@ function Hero() {
               <span className="text-start about-para">
                 WELCOME TO </span> 
                 {/* <b className="safemoon">SAFEMOON</b> <br /> */}
-                <span className="text-start safemoon-type"><span
-                strings={['SAFEMOON']}
-                typeSpeed={40}
-            /> </span>
+                <span className="text-start safemoon-type">
+                SAFEMOON
+                
+             </span>
             <span className="text-start about-para">
                 Community-driven Innovation for Good
                 </span>
