@@ -1,5 +1,5 @@
 import React from "react";
-import Typed from "react-typed"
+// import Typed from "react-typed"
 import BackGroungVideo from "../../Media/Home.mp4";
 
 function Hero() {
@@ -26,7 +26,7 @@ function Hero() {
               <span className="text-start about-para">
                 WELCOME TO </span> 
                 {/* <b className="safemoon">SAFEMOON</b> <br /> */}
-                <span className="text-start safemoon-type"><Typed
+                <span className="text-start safemoon-type"><span
                 strings={['SAFEMOON']}
                 typeSpeed={40}
             /> </span>
